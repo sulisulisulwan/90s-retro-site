@@ -1,0 +1,11 @@
+{
+  "name": "90s-retro-site",
+  "version": "1.0.0",
+  "description": "With the exception of the Node.js backend, this repo is an exercise on using as vanilla JS on a website with a 90s retro feel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suliman Tekalli",
+  "license": "ISC"
+}
